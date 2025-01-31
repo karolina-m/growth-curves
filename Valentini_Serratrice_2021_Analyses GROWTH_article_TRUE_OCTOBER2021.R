@@ -163,6 +163,8 @@ summary(DataverySHORT_T3_NEW)
 
 ###no growth model###
 
+# for syntax see https://lavaan.ugent.be/tutorial/syntax1.html
+
 ng.BPVS.lavaan_model <- '
 # latent variable definitions
 #intercept
